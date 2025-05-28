@@ -4,5 +4,9 @@ Esta práctica consiste en la elaboracion de hojas de cálculo que contengan fó
 
 ## Captura Hoja 1
 
-![Captura Hoja 1][capturas/hoja1.png]
+![Captura Hoja 1][def2]
 
+
+
+[def]: capturas\hoja1.png
+[def2]: capturas/hoja1.png
